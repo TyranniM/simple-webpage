@@ -1,0 +1,44 @@
+#title{
+    color:rgb(92, 28, 28);
+    text-align: center;
+}
+#title{
+    font-family:cursive;
+    text-align: center;
+}
+h2{
+    color:rgb(211, 120, 15);
+}
+h2{
+    color: rgb(92, 28, 28);
+    font-family: cursive;
+    text-align: center;
+}
+body{
+    background-image: url("https://static1.squarespace.com/static/5430f838e4b0887f19e3ca20/t/59f675188e7b0f7a60502529/1509324072746/17+waves.gif?format=1500w");
+    background-size: cover;
+}
+h3{
+   margin-left:10%;
+    font-family: cursive;
+    color:rgb(92, 28, 28);
+}
+ol{
+    color:rgb(226, 171, 31);
+        font-family:cursive;
+}
+#parent{
+    display:flex;
+}
+#kid1{
+    margin-left:15%;
+    background-color: rgba(26, 2, 2, 0.4);
+    font-size: 20px;
+    }
+#kid2{
+    flex:2;
+}
+img{
+    height:10%;
+    margin-left:30px;
+}
